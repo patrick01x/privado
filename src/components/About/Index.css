@@ -1,0 +1,47 @@
+.about {
+    position: absolute;
+    left: 32.031vw;
+    top: 13.281vw;
+}
+
+.about h1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 3.333vw;
+    color: #5C5B70;
+}
+
+.about p {
+    width: 54.427vw;
+    height: 20.260vw;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.042vw;
+    color: #5C5B70;
+}
+
+.linha {
+    position: absolute;
+    width: 34.427vw;
+    height: 0vw;
+    left: 20.313vw;
+    top: 4.844vw;
+    border: 0.052vw solid #5C5B70;
+}
+
+.linha1 {
+    position: absolute;
+    width: 34.427vw;
+    height: 0vw;
+    left: 9.896vw;
+    top: 18.906vw;
+    border: 0.052vw solid #5C5B70;
+}
+
+.about img {
+    position: absolute;
+    left: 46.875vw;
+    top: 9.688vw;
+}
